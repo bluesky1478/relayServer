@@ -1,4 +1,3 @@
-<?php
-phpinfo()
-?>
+테스트 입니다...
 
+<br>the test...
